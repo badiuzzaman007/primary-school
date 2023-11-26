@@ -1,0 +1,131 @@
+*{
+    margin:0%;
+    padding: 0%;
+
+}
+#body{
+width: 1322px;
+height: 91px;
+flex-shrink: 0;
+margin-top: auto;
+}
+#logo{
+    color: brown;
+    font-size: 17px;
+    font-weight: 600;
+    display:inline-flexbox;
+    justify-content: space-between;
+    text-align: center;
+}
+#logo li{
+    list-style: none;
+    display: inline-block;
+    padding: 0px 15px;
+    font-size: 17px;
+    color: black;
+    text-align: center;
+
+
+
+#h3{
+
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px;
+display: inline-block;
+}
+#background{
+display: flex;
+width: 415px;
+height: 280px;
+flex-direction: column;
+align-items: flex-start;
+padding-right: 100%;
+}
+#btn-text{
+    color: var(--light-text-color, #FFF);
+text-align: center;
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: 22px; /* 157.143% */
+letter-spacing: 0.2px;
+}
+#h1{
+    color: black;
+    display:inline-flexbox;
+}
+#container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    color: aqua;
+}
+#container div{
+    padding: 20px;
+    flex-basis: 30px;
+}
+#technology{
+display: inline-flex;
+width: 376.939px;
+height: 440.611px;
+flex-shrink: 0;
+}
+#article h2{
+    color: var(--text-color, #252B42);
+font-family: Montserrat;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: 50px; /* 125% */
+letter-spacing: 0.2px;
+}
+#container5 ul{
+    color: brown;
+    font-size: 17px;
+    font-weight: 600;
+    display:inline-flexbox;
+    justify-content: space-between;
+    text-align: center;
+
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensures the content takes at least the full height of the viewport */
+}
+
+header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #2980b9;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}

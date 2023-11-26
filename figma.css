@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.logo{
+    color: aqua;
+    size: 17px;
+    display: flex;
+}

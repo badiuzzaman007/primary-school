@@ -1,0 +1,19 @@
+h1 {
+    color:blue;
+    font-size:xl-large;
+    font-weight: 200px;
+    text-align: center;
+border-style: groove;
+font-style: oblique;
+text-decoration:none;
+background-color:beige;
+
+.class {
+    float: left;
+    color: brown;
+    font-weight: 200px;
+    display: block;
+    text-align: center;
+    padding: 100px 200px;
+    background-color: black;
+}

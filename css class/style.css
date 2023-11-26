@@ -1,0 +1,28 @@
+
+      h1{
+        background-color: red;
+        font-weight: midium;
+        font-size: large;
+        text-align: center;
+        border-top: red;
+
+        
+      }
+      h5 {
+        color: aqua;
+        font-style: italic;
+      }
+      p {
+        color: violet;
+        font-style: normal;
+        font-size: large;
+      }
+      a {
+        background-color: yellow;
+        font-size: large;
+        font-weight: 200px;
+        font-display: calc(center);
+        font-style: italic;
+        text-align:center
+      }
+      
